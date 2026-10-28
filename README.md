@@ -464,7 +464,7 @@ Parts of this project written with AI/LLM tools. Each member completes their own
 | 3 | Thet Htar Nwe | hn.thet.2025 | Study space catalogue and management, including listing and detail pages, facility information, image carousel, CRUD functionality and responsive Vue/CSS interface development |
 | 4 | Gerena Lim | gerena.lim.2025 | Search, advanced filters and suitability scoring, including filtering study spaces by facilities, study preferences and location suitability |
 | 5 | Jeffrey Wen | jeffrey.wen.2025 | Ratings, reviews and crowd reporting, including creating, viewing, editing and deleting reviews, calculating ratings and displaying user-reported crowd levels |
-| 6 | Liew Tian Le | tianle.liew.2024 | Weather API integration, weather-based suitability information and AI-powered study assistant development |
+| 6 | Liew Tian Le | tianle.liew.2024 | AI-powered study assistant development; OneMap API integration for real-time weather suitability data and interactive route mapping with estimated travel times |
 
 ---
 
